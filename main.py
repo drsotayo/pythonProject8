@@ -1,4 +1,8 @@
 
-print(2+10)
 
-print("Hello world")
+a=10
+b=10
+c=a+b
+print(c)
+
+
